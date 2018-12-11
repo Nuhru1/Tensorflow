@@ -15,3 +15,8 @@ link:https://www.kaggle.com/
 
 # After testing on 12 images from testing data
 
+![screenshot from 2018-12-11 18-00-00](https://user-images.githubusercontent.com/44145876/49824012-038c3780-fdbc-11e8-8e8e-e3dc70ad4a80.png)
+
+
+We can see one wrong on the picture but the result still satisfying and can be improved
+
