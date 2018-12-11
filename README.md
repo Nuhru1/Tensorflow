@@ -11,3 +11,6 @@ link:https://www.kaggle.com/
 
 # Visualizing the graph on Tensorboard:
 
+![screenshot from 2018-12-12 01-42-03](https://user-images.githubusercontent.com/44145876/49822912-5b756f00-fdb9-11e8-8f6a-c0e69631179e.png)
+
+
