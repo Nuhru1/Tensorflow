@@ -141,6 +141,12 @@ model.save(MODEL_NAME)
 
 
 # visualizing 12 images on testing data and see what the prediction will  be
+# if you need to create the data:
+#test_data = process_test_data()
+
+# if you already have some saved:
+test_data = np.load('test_data.npy')
+
 import matplotlib.pyplot as plt
 
 
