@@ -5,6 +5,6 @@ California Census Data
   predict Income class (>50k or <=50k)
   
 ## Tools:
-  Pandas
-  scikit-learn
-  Tensorflow
+  - Pandas
+  - scikit-learn
+  - Tensorflow
